@@ -7,5 +7,7 @@
       "path": "TestDevops"
     }
   ],
-  "settings": {}
+  "settings": {
+    "powershell.cwd": "c:\\Users\\dev\\Documents\\Devops-AL-GO-2\\.AL-Go"
+  }
 }
