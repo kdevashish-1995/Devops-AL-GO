@@ -6,6 +6,7 @@ tableextension 50000 CustomerExt extends Customer
         {
             DataClassification = ToBeClassified;
         }
+
     }
 
     var

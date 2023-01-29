@@ -10,6 +10,7 @@
                                "port":  7049,
                                "tenant":  "default",
                                "authentication":  "UserPassword"
+                               //"schemaUpdateMode": "ForceSync"                 
                            }
                        ]
 }

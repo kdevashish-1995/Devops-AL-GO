@@ -8,6 +8,7 @@ pageextension 50000 CustomerCardExt extends "Customer Card"
             {
                 ApplicationArea = All;
             }
+
         }
     }
 
